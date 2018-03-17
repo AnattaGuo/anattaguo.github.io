@@ -18,9 +18,7 @@ Hi,
 
 好了，先说这么多吧，如果有兴趣进一步了解我，欢迎扫描下面二维码，关注我的微信公众号：simplemengjun  
 
-![欢迎关注我的微信公众号：简疏志](http://i1.piimg.com/567571/c499a23a80c7e967.jpg)
-
-![简疏志@简书](https://www.jianshu.com/u/602414ddff23)
+[简疏志@简书](https://www.jianshu.com/u/602414ddff23)
 
 # ChangLog
 - 20180317 第二版
