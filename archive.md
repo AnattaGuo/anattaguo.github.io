@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-description: "文章归档"
+description: "书言志以疏通自我，坚持自省，坚持记录"
 header-img: "img/orange.jpg"
 ---
 
