@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NoMethodError-in-Admin--Products#update
-date: 2018-3-17
+date: 2017-3-17
 categories: blog
 tags: [编程笔记,ErrorLog]
 ---
