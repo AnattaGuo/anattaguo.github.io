@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 谁说区块链上数据不可篡改？| 小白学比特币之四
-date: 2018-03-17
+date: 2018-3-17
 categories: blog
 tags: [比特币,区块链]
 description: 区块链数据其实可篡改
