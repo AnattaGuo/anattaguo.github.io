@@ -7,6 +7,14 @@ tags: [比特币,区块链]
 description: 双重支付是逻辑学问题
 ---
 
+---
+layout: post
+title: 谁说区块链上数据不可篡改？——小白学比特币之五
+date: 2018-3-17
+categories: blog
+tags: [比特币,区块链]
+description: 区块链数据其实可篡改
+---
 
 什么是双重支付呢？
 
