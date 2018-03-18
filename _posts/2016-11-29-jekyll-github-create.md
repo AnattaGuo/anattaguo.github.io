@@ -1,6 +1,10 @@
 ---
 layout: post  
 title: Github+Jekyll搭建个人博客三步走|极简小白教程
+date: 2016-11-29
+categories: blog
+tags: [教程]
+description: 我们的口号是：人不折腾枉少年。
 ---  
 
 
@@ -31,7 +35,7 @@ Step 3 发布日志
 **b**. 在Github的搜索框里输入`jekyll-now`找到此仓库  
 **c**. 点击Fork
 ![b and c](http://oheo7h2b5.bkt.clouddn.com/b.png)  
-  
+
 **d**. 选择自己的账号  
 ![d](http://oheo7h2b5.bkt.clouddn.com/d.png)  
 
@@ -97,7 +101,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 **p**. 输入日志文件名称，格式为`yyyy-mm-dd-xxx-xxx.md`，如`2016-11-29-Self-Introduce.md`
 > 注意
-> 
+>
 > 1.  日志文件名一定要以`.md`结尾
 > 2.  日志文件名之间一定要有连字符 `-`
 > 3.  日志文件名不可以包含中文字符  
@@ -122,7 +126,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 **t**. 点击`commit`提交日志（参考步骤l）  
 
-**u**. 预览日志，打开自己的博客地址，发现刚写的日志已经发布完成了。 
+**u**. 预览日志，打开自己的博客地址，发现刚写的日志已经发布完成了。
 ![u](http://oheo7h2b5.bkt.clouddn.com/U.png)
 
 祝贺你，到这里，利用Jeklly+Github创建个人博客就大功告成了。
@@ -130,4 +134,3 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 如果你在创建过程中遇到问题或者有其他疑问，欢迎留言。  
 或者关注我的微信公众号`simplemengjun`，在后台留言，我会尽我所能回答。  
 ![欢迎关注我的微信公众号：简疏志](http://i1.piimg.com/567571/c499a23a80c7e967.jpg)
-
