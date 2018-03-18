@@ -41,8 +41,8 @@ description: 区块链数据其实可篡改
 > A double-spend attack is where the attacker cause previously confirmed blocks to be invalidated by forking below them and re-converging on an alternate chain.  —— From 《精通比特币》
 
 双重支付攻击可以下两种方式发生：
-> 在一笔交易被确认之前发起
-> 或者依靠自己的算力“撤销”那些区块，就像word上的撤销动作。
+> - 在一笔交易被确认之前发起
+> - 或者依靠自己的算力“撤销”那些区块 (就像word上的撤销动作)
 
 关于双重支付攻击具体是如何运作的，可以看之前的文章[一笔钱花两次: 双重支付——小白学比特币之四](https://www.jianshu.com/p/59aaa2cb44d9)。
 
