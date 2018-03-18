@@ -7,7 +7,7 @@ tags: [比特币,区块链]
 description: 区块链数据其实可篡改
 ---
 
-本文为作者原创，已做press.one数字签名。
+本文为作者原创，已做[press.one数字签名](https://press.one/file/v?s=a1ac80c24fb3ca6e6118797d62c8e4937bef8fb8878cbf60baa589ae345a8539b92f2343a30d8060603b0c29fdcb93efbc46486b0f3beb11c5c095ddf3dfd74f0&h=281ceeb89ef781ede44ded261cd81b11c9d8d1e2ffbade1b328052c2d29567da&a=dd1bb42228bee252f306bc2529d1d887482cb23a&f=P1&v=2)。
 
 本文为小白学习比特币基本概念系列之四，若有理解不当或者叙述不够简单明了详尽之处，恳请指出、留言讨论。
 
