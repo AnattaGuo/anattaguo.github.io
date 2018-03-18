@@ -2,7 +2,7 @@
 title: 简疏志 # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"
-description: "常精進，勿懈怠"  # 一句话描述你的博客
+description: "常精進，勿懈怠 | 郭夢君"  # 一句话描述你的博客
 baseurl: ""
 url: "https://anattaguo.github.io/"  # 此处填写你的博客地址
 
@@ -10,7 +10,7 @@ url: "https://anattaguo.github.io/"  # 此处填写你的博客地址
 owner:
   name: "郭夢君" # 填写作者信息：名字
   email: mengjunkwok@gmail.com # 填写作者信息：邮箱
-  bio: "常精進，勿懈怠 | 郭夢君" # 填写作者信息：博客描述
+  bio: "常精進，勿懈怠" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
