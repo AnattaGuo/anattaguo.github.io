@@ -11,7 +11,6 @@ description: 区块链数据其实可篡改
 
 本文为小白学习比特币基本概念系列之四，若有理解不当或者叙述不够简单明了详尽之处，恳请指出、留言讨论。
 
-[TOC]
 ***
 # 01. 什么是共识攻击？
 众所周知，比特币系统里的交易有一个很大的特点，就是**不可篡改**性（数据不可篡改）。在比特币网络，每一笔交易，被验证过后就永远的被记录在链里，而且是所有人共同见证。
@@ -34,8 +33,8 @@ description: 区块链数据其实可篡改
 
 
 在比特币网络里，共识通常会通过以下两种方式来攻击：
-> 双重支付 (Double-spend Attack)
-> 否认服务 (Denial-of-Service) , DoS攻击
+> - 双重支付 (Double-spend Attack)
+> - 否认服务 (Denial-of-Service) , DoS攻击
 
 # 02. 双重支付攻击
 什么是双重支付攻击呢？双重支付攻击就是攻击者可以通过分叉的方式将之前已被确认过的区块变成无效区块，把它排挤到“备用”链上:
@@ -45,10 +44,7 @@ description: 区块链数据其实可篡改
 > 在一笔交易被确认之前发起
 > 或者依靠自己的算力“撤销”那些区块，就像word上的撤销动作。
 
-关于双重支付攻击具体是如何运作的，可以看我之前的文章[一笔钱花两次: 双重支付 | 小白学比特币之四](xx)。
-
-Note that a double-spend can only be done on the attacker's own transactions, for which the attacker can produce a valid signature.
-the more confirmatio elapse, the harder it becomes to invalidat a transaction with a 51% attack.
+关于双重支付攻击具体是如何运作的，可以看之前的文章[一笔钱花两次: 双重支付 | 小白学比特币之四](https://www.jianshu.com/p/59aaa2cb44d9)。
 
 # 03. 否认服务（DoS攻击）
 攻击共识的另外一种行为就是，否认服务(Denial-of-Service)，DoS:
@@ -56,14 +52,14 @@ the more confirmatio elapse, the harder it becomes to invalidat a transaction wi
 
 给单个节点发送大量数据（小额交易），让这个节点无法瘫痪，暂时无法处理交易，或者处理交易异常缓慢。这个时候攻击者就有机可趁。有点类似于一大群人蜂拥到一个商店，堵在门口，那么其他客户就没有办法进去买东西了。
 
-> An attacker with a majority of the mining power can simply ignore specific transactions. If they are included in a block minded b another miner, the attacker can deliberately fork and remine that block, again excluding the specific transactions.
+> An attacker with a majority of the mining power can simply ignore specific transactions. If they are included in a block minded b another miner, the attacker can deliberately fork and remine that block, again excluding the specific transactions. —— From 《精通比特币》
 
 拥有大部分算力的矿工节点，能轻易“忽视”特定交易，如果这些交易放在了一个被验证过的区块里，那么攻击者就故意的分叉出一个区块，然后自己重新再挖一次，通过这个动作把之前的交易删掉。这样的行为能导致针对一个或多个地址持续的DoS攻击。
 
 实际上，一个矿工或者矿工团体如果没有51%算力，比如只有30%的算力，也可以对比特币系统进行攻击。只是在攻击成功的概率上有所不同。拥有51%算力，如果发起攻击，则大概率会成功(almost guaranteed to succeed)。
 > Security research groups have used statistical modeling to claim that various types of consensus attacks are possible with as little as 30% of the hashing power.  ——From 《精通比特币》
 
-04. 小结
+# 04. 小结
 51%算力攻击可以让算力拥有者排除或者修改交易数据，但是这样的攻击行为也是有限的，矿工能做到的攻击是：
 - 撤销在矿工控制下矿工自己发送的交易（这个可以导致双重交易）
 - 阻止一些或者所有的交易获得确认
@@ -84,7 +80,7 @@ the more confirmatio elapse, the harder it becomes to invalidat a transaction wi
 
 作为比特币收发者的个人，注意一笔交易要至少6个确认数才能算是安全(确认数越多，修改难度越大）。**共识靠大家，安全你我他**。
 
-下一篇将会涉及的基本概念是硬分叉和软分叉。
+下一篇将会谈到的基本概念是硬分叉和软分叉。
 
 ***
 # 参考文献
