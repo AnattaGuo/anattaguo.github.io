@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "区块链比较"
+title: "区块链笔记"
 description: "All About Blockchian"
 header-img: "img/zhihu.jpg"
 ---
