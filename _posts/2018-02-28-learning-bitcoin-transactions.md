@@ -6,7 +6,7 @@ categories: blog
 tags: [比特币,区块链]
 ---
 
-在[小白学比特币1](_posts/2018-02-14-learning-bitcoin-overview.md)中， 提到比特币不仅是一个**电子现金**（系统），也是一个公开的账本，这账本上记录了每笔交易的信息。用比特币交易，其实就跟我们用人民币或者美元交易买卖东西一样。作者给比特币交易行为的定义是：
+在[小白学比特币1](/_posts/2018-02-14-learning-bitcoin-overview.md) 中， 提到比特币不仅是一个**电子现金**（系统），也是一个公开的账本，这账本上记录了每笔交易的信息。用比特币交易，其实就跟我们用人民币或者美元交易买卖东西一样。作者给比特币交易行为的定义是：
 
 > In simple terms, a transaction tells the network that the owner of some bitcoin **value** has authorized the transfer of that **value** to another owner. The new owner can now spend the bitcoin by creating another transaction that authorizes transfer to another owner, and so on , in a chain of ownership. （简单来说，一笔转账告诉网络，这些比特币的所有者授权将这些比特币转给另外一个所有者。新的所有者可以通过创建一笔新的交易，授权转账给其他所有者，来花费这比特币，以此类推。）
 
