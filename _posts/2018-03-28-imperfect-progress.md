@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: 不完美的进度
+title: 不完美的进步
 date: 2016-03-28
 categories: blog
 tags: [随笔]
