@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 普通人如何搭上区块链这辆快车——公信宝CEO一块听听分享之一
+title: 普通人如何搭上区块链这辆快车——公信宝CEO黄敏强分享之一
 date: 2018-04-21
 categories: blog
 tags: [区块链]
