@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 创业从业必看：区块链应用和公有链的底层逻辑——公信宝CEO黄敏强分享之二
-date: 2018-04-21
+date: 2018-05-05
 categories: blog
 tags: [区块链]
 description:
