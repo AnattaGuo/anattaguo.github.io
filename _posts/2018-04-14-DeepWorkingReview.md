@@ -7,8 +7,7 @@ tags: [读书笔记]
 description:
 ---
 
-![](https://github.com/AnattaGuo/anattaguo.github.io/blob/master/img/blogimg/DeepWorkCover.jpeg)
-![](img/facebook.jpg)
+![](https://upload-images.jianshu.io/upload_images/147665-01eb382b1c9e2690.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 关于本文写作的说明，分为两大部分,第一部分是关于《深度工作》的摘要，第二部分是自己一些感悟。摘要的想法来自于许岑《如何成为有效学习的高手》，里面提到对于文字学习一定要有输出反馈，写摘要就是很好输出方法之一。在youtube上找了一些教如何写摘要的视频，摘要写作要对照着原文文本来写，要尽量客观，不能包含自己的观点在里面，但是不是简单的复制黏贴、做摘抄而已。这有点像小学时候的写段落大意。本文第二部分为自己的评论，记录自己的一些感悟或者其他对自己在行动上可以借鉴的地方。本文第三部分未《深度工作》一书金句摘抄，作为对于摘要的一种补充。
 
