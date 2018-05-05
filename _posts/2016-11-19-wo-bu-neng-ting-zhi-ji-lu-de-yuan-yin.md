@@ -3,7 +3,7 @@ layout: post
 title: 我不能停止记录的原因
 date: 2016-11-19
 categories: blog
-tags: [SB比]
+tags: [随笔]
 ---
 
 ![](http://upload-images.jianshu.io/upload_images/147665-21759866c2f9c031.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
